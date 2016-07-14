@@ -1,5 +1,5 @@
-# Intro
-This app provides a *service* for registering names associated to GPS coordinates, similar to how a DNS registrar provides a service for registering names that are associated to IP addresses. In the case of DNS, these names are called TLDs (top-level domains, or more commonly, just "domains").
+# Omgeo
+Omgeo provides a *service* for registering names associated to GPS coordinates, similar to how a DNS registrar provides a service for registering names that are associated to IP addresses. In the case of DNS, these names are called TLDs (top-level domains, or more commonly, just "domains").
 
 In our app, these names are called **omgeo** tags.
 
